@@ -10,4 +10,4 @@ Luke doesn't know what is happening outside his planet, he only listened that th
 
 He want to be part of the rebelion, he want to fight along with his friends that are already figthing.
 
-- Autor: John Bulla
+- Autor: *John Bulla*

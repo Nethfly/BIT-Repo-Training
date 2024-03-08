@@ -10,7 +10,7 @@ console.log (entrada);
 
 switch(entrada){
     case "":
-        document.write("Hello There!");
+        document.write("Hello There! Youngling");
         break;
     default:
         document.write("Hello There! "+ entrada + ", Welcome to the Council");

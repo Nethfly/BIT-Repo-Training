@@ -13,6 +13,6 @@ switch(entrada){
         document.write("Hello There! Youngling");
         break;
     default:
-        document.write("Hello There! "+ entrada + ", Welcome to the Council");
+        document.write("Hello There! "+ entrada + ", Welcome to the Jedi Council");
         break;            
 }

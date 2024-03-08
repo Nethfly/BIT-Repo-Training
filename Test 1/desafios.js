@@ -3,7 +3,7 @@
 /* console.log("Hola")
 document.write("Hola") */
 
-// Hacer programa que salude por el nombre, si no recibe nobre solo saludar
+// Hacer programa que salude por el nombre, si no recibe nombre solo saludar
 
 const entrada = prompt ("Enter your name")
 console.log (entrada);

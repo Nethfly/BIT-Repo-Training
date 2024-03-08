@@ -13,6 +13,6 @@ switch(entrada){
         document.write("Hello There!");
         break;
     default:
-        document.write("Hello There "+ entrada + " Welcome");
+        document.write("Hello There! "+ entrada + " Welcome");
         break;            
 }

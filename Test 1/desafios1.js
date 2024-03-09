@@ -5,7 +5,7 @@ document.write("Hola") */
 
 // Hacer programa que salude por el nombre, si no recibe nombre solo saludar
 
-const entrada = prompt ("Enter your name")
+/*const entrada = prompt ("Enter your name")
 console.log (entrada);
 
 switch(entrada){
@@ -14,5 +14,5 @@ switch(entrada){
         break;
     default:
         document.write("Hello There! "+ entrada + ", Welcome to the Jedi Council");
-        break;            
-}
+        break;          
+}*/

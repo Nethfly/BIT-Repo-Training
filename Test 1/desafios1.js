@@ -51,7 +51,7 @@ if (number < 0)
 
 //Hacer un programa que reciba del usuario dos números, y muestre cual es el número mayor y cual es el número menor
 
-let num1 = prompt("Enter the first number:");
+/*let num1 = prompt("Enter the first number:");
 let num2 = prompt("Enter the second number:");
 num1 = parseFloat(num1);
 num2 = parseFloat(num2);
@@ -65,4 +65,4 @@ if (num1 > num2) {
     console.log(" The smallest number is: " + num1);
     document.write(" The Greater number is: " + num2);
     document.write(" The Smallest number is: " + num1);
-}
+}*/

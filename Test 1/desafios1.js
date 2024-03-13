@@ -20,16 +20,15 @@ switch(entrada){
 
 // Hacer un programa que reciba aparte nobre y apellido y que de como resultado nombre completo.
 
-/*const name = prompt("Enter your name")
+const name = prompt("Enter your name")
 const lastname = prompt("Enter your last name");
 //console.log(name + ' ' + lastname);
 //document.write(name + ' ' + lastname);
 // Interpolacion de variables (Alt+96=`)
-document.write(`Your full name is: ${name} ${lastname}`); */
+document.write(`Your full name is: ${name} ${lastname}`);
 
 
 // Hacer un programa que reciba 2 numeros del usuario y los sume
-
 /*const number1 = Number(prompt("Enter the first number"));
 const number2 = parseInt(prompt("Enter the second number"));
 console.log(number1 + number2);
